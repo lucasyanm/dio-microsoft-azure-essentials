@@ -1,6 +1,8 @@
 # DIO Bootcamp - Microsoft Azure Essentials
 
-Coletânea dos mind-maps que montei durante o bootcamp Microsoft Azure Essentials da DIO
+## Conceitos básicos
+
+[![Cloud fundamentals](images/conceitos-basicos-nuvem.png)](https://excalidraw.com/#json=I_xo4aqSv17Al6NFZJzKl,Ic5KvMcEMpbP9OxTKAEmUw)
 
 ## Benefícios da Nuvem
 
