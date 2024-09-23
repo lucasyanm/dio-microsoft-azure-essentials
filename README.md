@@ -7,3 +7,7 @@
 ## Benefícios da Nuvem
 
 [![Mindmap Cloud Benefits](images/beneficios-da-nuvem.png)](https://excalidraw.com/#json=pZSdOSsvCaOH1sqcxoXIX,cmAshxn4PXgm4FscDC2ENA)
+
+## Tipos de Produtos
+
+[![Product Types](images/product-types.png)](https://excalidraw.com/#json=-NIyS6gEJTDm4kipIzpuO,HltZ4rov9IaNmWCsvc6nHQ)
