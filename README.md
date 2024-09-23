@@ -11,3 +11,7 @@
 ## Tipos de Produtos
 
 [![Product Types](images/product-types.png)](https://excalidraw.com/#json=-NIyS6gEJTDm4kipIzpuO,HltZ4rov9IaNmWCsvc6nHQ)
+
+## Arquitetura
+
+[![Cloud Architecture](images/architecture.png)](https://excalidraw.com/#json=cXYPtLM_BO8OGVzJURe0z,xnxjPSBd7pzDCW_4Jp3Fig)
