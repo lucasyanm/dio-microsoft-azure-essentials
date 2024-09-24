@@ -14,4 +14,4 @@
 
 ## Arquitetura
 
-[![Cloud Architecture](images/architecture.png)](https://excalidraw.com/#json=rnglyjeeXbouhdnh4PZlQ,QonrqAw95CFqaAgB3IvUpg)
+[![Cloud Architecture](images/architecture.png)](https://excalidraw.com/#json=bQoieBKuxvK5Uy-7kBYR3,vzMfYrRjWDTuIBCacSHQFw)
