@@ -16,4 +16,6 @@
 
 [![Cloud Architecture](images/architecture.png)](https://excalidraw.com/#json=bQoieBKuxvK5Uy-7kBYR3,vzMfYrRjWDTuIBCacSHQFw)
 
-![Azure Architecture - Computing and Network (WIP)](images/azure-computing-and-network.drawio.png)
+### Processamento e Conexão
+
+[![Azure Architecture - Computing and Network (WIP)](images/azure-computing-and-network.drawio.png)](https://drive.google.com/file/d/1N-RxNkEBCulEXEJWTzMWPHhiVUFS7u5S/view?usp=sharing)
