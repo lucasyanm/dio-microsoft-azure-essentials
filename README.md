@@ -19,3 +19,7 @@
 ### Processamento e Conexão
 
 [![Azure Architecture - Computing and Network (WIP)](images/azure-computing-and-network.drawio.png)](https://drive.google.com/file/d/1N-RxNkEBCulEXEJWTzMWPHhiVUFS7u5S/view?usp=sharing)
+
+### Armazenamento e Storage Accounts
+
+[![Azure Architecture - Storage](images/azure-storage.drawio.png)](https://drive.google.com/file/d/1aFEVGdAPbR6_d_O4aysU3GaoQK9wB_vL/view?usp=sharing)
