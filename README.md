@@ -12,7 +12,7 @@
 
 [![Product Types](images/product-types.png)](https://excalidraw.com/#json=-NIyS6gEJTDm4kipIzpuO,HltZ4rov9IaNmWCsvc6nHQ)
 
-## Arquitetura
+## Arquitetura e Serviços
 
 [![Cloud Architecture](images/architecture.png)](https://excalidraw.com/#json=bQoieBKuxvK5Uy-7kBYR3,vzMfYrRjWDTuIBCacSHQFw)
 
@@ -23,3 +23,7 @@
 ### Armazenamento e Storage Accounts
 
 [![Azure Architecture - Storage](images/azure-storage.drawio.png)](https://drive.google.com/file/d/1aFEVGdAPbR6_d_O4aysU3GaoQK9wB_vL/view?usp=sharing)
+
+### Identidade, Acessoe e Segurança
+
+[![Azure Architecture - Identity, Acess and Security MindMap](images/azure-identity-access-security.drawio.png)](https://drive.google.com/file/d/1IR5d8wjDkvq7nRNUlPJJgUQ18MY2L9Ro/view?usp=sharing)
