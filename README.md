@@ -27,3 +27,9 @@
 ### Identidade, Acessoe e Segurança
 
 [![Azure Architecture - Identity, Acess and Security MindMap](images/azure-identity-access-security.drawio.png)](https://drive.google.com/file/d/1IR5d8wjDkvq7nRNUlPJJgUQ18MY2L9Ro/view?usp=sharing)
+
+## Gerenciamento e Governança
+
+### Gerenciamento de Custos
+
+[![Azure Management and Governance - Azure Costs MindMap](images/azure-costs.drawio.png)](https://drive.google.com/file/d/1wlpbcFQO9BvWSbZ37R8agWeOhiaXUTtt/view?usp=sharing)
