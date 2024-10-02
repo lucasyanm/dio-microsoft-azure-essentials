@@ -33,3 +33,7 @@
 ### Gerenciamento de Custos
 
 [![Azure Management and Governance - Azure Costs MindMap](images/azure-costs.drawio.png)](https://drive.google.com/file/d/1wlpbcFQO9BvWSbZ37R8agWeOhiaXUTtt/view?usp=sharing)
+
+### Governança
+
+[![Azure Management and Governance - Governance MindMap](images/azure-governance.drawio.png)](https://drive.google.com/file/d/1GZNyM3Tu_r3kxZcjR7Ce28UfzKLd3PdF/view?usp=sharing)
