@@ -37,3 +37,7 @@
 ### Governança
 
 [![Azure Management and Governance - Governance MindMap](images/azure-governance.drawio.png)](https://drive.google.com/file/d/1GZNyM3Tu_r3kxZcjR7Ce28UfzKLd3PdF/view?usp=sharing)
+
+### Ferramentas de implementação de recursos
+
+[![Azure Management and Governance - Resource Implementation Tools MindMap](images/azure-resource-implementation-tools.drawio.png)](https://drive.google.com/file/d/1qGawHcEySEWyoUsw9Wo5c7RetGMrzkGx/view?usp=sharing)
