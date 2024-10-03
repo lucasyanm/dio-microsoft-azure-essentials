@@ -12,3 +12,4 @@
    - [Gerenciamento de Custos](https://drive.google.com/file/d/1wlpbcFQO9BvWSbZ37R8agWeOhiaXUTtt/view?usp=sharing)
    - [Governança](https://drive.google.com/file/d/1GZNyM3Tu_r3kxZcjR7Ce28UfzKLd3PdF/view?usp=sharing)
    - [Ferramentas de implementação de recursos](https://drive.google.com/file/d/1qGawHcEySEWyoUsw9Wo5c7RetGMrzkGx/view?usp=sharing)
+   - [Ferramentas de monitoramento](https://drive.google.com/file/d/1amVc6yHWIfVNXItDr10TS_APrF8POKXT/view?usp=sharing)
