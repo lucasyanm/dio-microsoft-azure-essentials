@@ -1,6 +1,8 @@
 # DIO Bootcamp - Microsoft Azure Essentials
 
-1. [Conceitos básicos](https://drive.google.com/file/d/18s6ykEHuGLZjIuViup1l5F7XsAjKQaGw/view?usp=sharing)
+1. Conceitos básicos
+   - [Artigo: Cloud Computing e a Distribuição de Responsabilidades](https://www.linkedin.com/pulse/cloud-computing-e-distribui%25C3%25A7%25C3%25A3o-de-responsabilidades-lucas-carvalho-e0qif/?trackingId=RLZe%2FOi5Q4S35Qtn6kwrAQ%3D%3D)
+   - [Mindmap](https://drive.google.com/file/d/18s6ykEHuGLZjIuViup1l5F7XsAjKQaGw/view?usp=sharing)
 2. [Benefícios da Nuvem](https://drive.google.com/file/d/1BKGoVbzx6fOwjyrE2J1Fw2aGrzVm8xVo/view?usp=sharing)
 3. [Tipos de Produtos](https://excalidraw.com/#json=-NIyS6gEJTDm4kipIzpuO,HltZ4rov9IaNmWCsvc6nHQ)
 4. Arquitetura e Serviços
