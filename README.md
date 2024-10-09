@@ -1,7 +1,7 @@
 # DIO Bootcamp - Microsoft Azure Essentials
 
 1. [Conceitos básicos](https://drive.google.com/file/d/18s6ykEHuGLZjIuViup1l5F7XsAjKQaGw/view?usp=sharing)
-2. [Benefícios da Nuvem](https://excalidraw.com/#json=pZSdOSsvCaOH1sqcxoXIX,cmAshxn4PXgm4FscDC2ENA)
+2. [Benefícios da Nuvem](https://drive.google.com/file/d/1BKGoVbzx6fOwjyrE2J1Fw2aGrzVm8xVo/view?usp=sharing)
 3. [Tipos de Produtos](https://excalidraw.com/#json=-NIyS6gEJTDm4kipIzpuO,HltZ4rov9IaNmWCsvc6nHQ)
 4. Arquitetura e Serviços
    - [Cloud Architecture](https://excalidraw.com/#json=bQoieBKuxvK5Uy-7kBYR3,vzMfYrRjWDTuIBCacSHQFw)
