@@ -1,4 +1,4 @@
-# DIO Bootcamp - Microsoft Azure Essentials
+# AZ900 - Microsoft Azure Essentials
 
 1. Conceitos básicos
    - [Artigo: Cloud Computing e a Distribuição de Responsabilidades](https://www.linkedin.com/pulse/cloud-computing-e-distribui%25C3%25A7%25C3%25A3o-de-responsabilidades-lucas-carvalho-e0qif/?trackingId=RLZe%2FOi5Q4S35Qtn6kwrAQ%3D%3D)
